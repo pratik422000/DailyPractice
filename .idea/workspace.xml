@@ -1,0 +1,201 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="e7115917-a4ad-437b-9af0-ced6eb10aca0" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/SeleniumPractice/FindCountOfElementsOnDynamicallyLoadingPage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/SeleniumPractice/FindMandatoryFields_psuedoElements.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/SeleniumPractice/FindSpecificElementOnDynamicallyLoadingPage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/SeleniumPractice/HandleAlertsWithoutUsingSwitchToAlert.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/SeleniumPractice/HandleDynamicTableWithChangingRowsAndColumns.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/SeleniumPractice/HandlingiFramsWithoutUsingSwitchToFrame.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Programs/src/main/resources/Child_Class.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Programs/src/main/resources/Parent_Class.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Beepkart/pageObjects/screenShotHandling.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/SeleniumPractice/screenShotHandling.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Beepkart_Tests/array.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Programs/out/production/Programs/array_programs/Find2ndLargestAndSmallestValue.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Programs/out/production/Programs/array_programs/Find2ndLargestAndSmallestValue.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Programs/out/production/Programs/array_programs/FindMinAndMaxValuesInArray.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Programs/out/production/Programs/array_programs/FindMinAndMaxValuesInArray.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Programs/out/production/Programs/array_programs/KthLargestNumber.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Programs/out/production/Programs/array_programs/KthLargestNumber.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Programs/out/production/Programs/array_programs/NthLargest.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Programs/out/production/Programs/array_programs/NthLargest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Programs/out/production/Programs/array_programs/NthLargestAndSmallestValue.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Programs/out/production/Programs/array_programs/NthLargestAndSmallestValue.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Programs/out/production/Programs/array_programs/findDuplicateElements.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Programs/out/production/Programs/array_programs/findDuplicateElements.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Programs/out/production/Programs/number_programs/CheckPrimeNumber.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Programs/out/production/Programs/number_programs/CheckPrimeNumber.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Programs/out/production/Programs/number_programs/CountDigitsInNumber.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Programs/out/production/Programs/number_programs/CountDigitsInNumber.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Programs/out/production/Programs/number_programs/FibonacciSeries.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Programs/out/production/Programs/number_programs/FibonacciSeries.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Programs/out/production/Programs/number_programs/FindFactorialOfNumber.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Programs/out/production/Programs/number_programs/FindFactorialOfNumber.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Programs/out/production/Programs/number_programs/FindTable.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Programs/out/production/Programs/number_programs/FindTable.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Programs/out/production/Programs/number_programs/PalindromeNumber.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Programs/out/production/Programs/number_programs/PalindromeNumber.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Programs/out/production/Programs/number_programs/PracticeCommonPrograms.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Programs/out/production/Programs/number_programs/PracticeCommonPrograms.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Programs/out/production/Programs/number_programs/Print1to100EvenNumbers.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Programs/out/production/Programs/number_programs/Print1to100EvenNumbers.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Programs/out/production/Programs/number_programs/Swapping2numbers.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Programs/out/production/Programs/number_programs/Swapping2numbers.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Programs/out/production/Programs/pattern_programs/LeftStarPattern.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Programs/out/production/Programs/pattern_programs/LeftStarPattern.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Programs/out/production/Programs/rivision/FindDupElemInArr.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Programs/out/production/Programs/rivision/FindDupElemInArr.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Programs/out/production/Programs/rivision/Selenium.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Programs/out/production/Programs/rivision/Selenium.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Programs/out/production/Programs/rivision/beepKart.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Programs/out/production/Programs/rivision/beepKart.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Programs/out/production/Programs/string_programs/AnagramString.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Programs/out/production/Programs/string_programs/AnagramString.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Programs/out/production/Programs/string_programs/convertStringToChar.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Programs/out/production/Programs/string_programs/convertStringToChar.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Programs/out/production/Programs/string_programs/extractNumFromString.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Programs/out/production/Programs/string_programs/extractNumFromString.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Programs/out/production/Programs/string_programs/findLengthOfLongestSubstring.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Programs/out/production/Programs/string_programs/findLengthOfLongestSubstring.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Programs/out/production/Programs/string_programs/findLongestSubstring.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Programs/out/production/Programs/string_programs/findLongestSubstring.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Programs/out/production/Programs/string_programs/makeLastCharUC.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Programs/out/production/Programs/string_programs/makeLastCharUC.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Programs/out/production/Programs/string_programs/maxRepeatCharInString.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Programs/out/production/Programs/string_programs/maxRepeatCharInString.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Programs/out/production/Programs/string_programs/noOfWordsInString.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Programs/out/production/Programs/string_programs/noOfWordsInString.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Programs/out/production/Programs/string_programs/palindromeString.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Programs/out/production/Programs/string_programs/palindromeString.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Programs/src/main/pattern_programs/LeftStarPattern.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Programs/src/main/pattern_programs/LeftStarPattern.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 3
+}</component>
+  <component name="ProjectId" id="2iT5f6RbftEaLu7yqEEyEVWAgWj" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Application.FindCountOfElementsOnDynamicallyLoadingPage.executor": "Run",
+    "Application.FindMandatoryFields_psuedoElements.executor": "Run",
+    "Application.FindSpcfcElmtOnDymclyLodgPage.executor": "Run",
+    "Application.HandleDynamicTableWithChangingRowsAndColumns.executor": "Run",
+    "Application.Main.executor": "Run",
+    "Application.array.executor": "Run",
+    "Application.screenShotHandling.executor": "Run",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "git-widget-placeholder": "master",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "C:/Users/pratik.b.dhake/Repository/Magento",
+    "onboarding.tips.debug.path": "C:/Users/pratik.b.dhake/IdeaProjects/FocusOnGoal/src/main/java/org/example/Main.java",
+    "project.structure.last.edited": "SDKs",
+    "project.structure.proportion": "0.15",
+    "project.structure.side.proportion": "0.2"
+  }
+}]]></component>
+  <component name="RunManager" selected="Application.HandleDynamicTableWithChangingRowsAndColumns">
+    <configuration name="FindCountOfElementsOnDynamicallyLoadingPage" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="SeleniumPractice.FindCountOfElementsOnDynamicallyLoadingPage" />
+      <module name="FocusOnGoal" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="SeleniumPractice.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="FindMandatoryFields_psuedoElements" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="SeleniumPractice.FindMandatoryFields_psuedoElements" />
+      <module name="FocusOnGoal" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="SeleniumPractice.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="FindSpecificElementOnDynamicallyLoadingPage" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="SeleniumPractice.FindSpecificElementOnDynamicallyLoadingPage" />
+      <module name="FocusOnGoal" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="SeleniumPractice.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="HandleDynamicTableWithChangingRowsAndColumns" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="SeleniumPractice.HandleDynamicTableWithChangingRowsAndColumns" />
+      <module name="FocusOnGoal" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="SeleniumPractice.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="array" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Beepkart_Tests.array" />
+      <module name="FocusOnGoal" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Beepkart_Tests.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.HandleDynamicTableWithChangingRowsAndColumns" />
+        <item itemvalue="Application.FindCountOfElementsOnDynamicallyLoadingPage" />
+        <item itemvalue="Application.FindSpecificElementOnDynamicallyLoadingPage" />
+        <item itemvalue="Application.FindMandatoryFields_psuedoElements" />
+        <item itemvalue="Application.array" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="jdk-21.0.2-openjdk-21.0.2-4caba194b151-4f524021" />
+        <option value="jdk-22-openjdk-22-3183f394aec4-bad0321e" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="e7115917-a4ad-437b-9af0-ced6eb10aca0" name="Changes" comment="" />
+      <created>1719501835475</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1719501835475</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/SeleniumPractice/HandleDynamicTableWithChangingRowsAndColumns.java</url>
+          <line>19</line>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
